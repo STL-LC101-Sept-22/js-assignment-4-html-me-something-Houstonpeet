@@ -38,7 +38,7 @@ body {
     color: red;
 }
 
-#testP {
+p.funParagraph {
     color: green;
     background-color: black;
 }
