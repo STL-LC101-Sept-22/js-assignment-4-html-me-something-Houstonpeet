@@ -1,1 +1,56 @@
 /* Write your CSS here! */
+p {
+    text-align: center;
+    color: purple;
+    font-size: large;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    color: teal;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+}
+
+body {
+    display: block;
+    margin: 8px;
+    background-image: url(https://files.nccih.nih.gov/files/marijuana-GettyImages-116036237-square.jpg);
+}
+
+#mainHeading {
+    color: red;
+}
+
+p.funParagraph {
+    color: green;
+    background-color: black;
+}
+
+#secondstep {
+    background-color: black;
+}
+
+#thirdstep {
+    background-color: black;
+}
+
+#fourthstep {
+    background-color: black;
+}
